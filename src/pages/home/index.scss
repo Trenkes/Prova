@@ -1,0 +1,34 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    background-image: url(https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150vh;
+
+
+.div1{
+    display: flex;
+    flex-direction: column;
+    border: solid 3px white;
+    width: 25em;
+    height: 56em;
+    align-items: center;
+    margin-top: 10em;
+    margin-left: 45em;
+    background-color: black;
+    border-radius: 2em;
+    
+    
+   
+}
+
+.texto{
+    font-family: Arial;
+    font-size: 25px;
+    padding-top: 1.5em;
+    text-decoration: none;
+    color: white;
+}
+
+}
